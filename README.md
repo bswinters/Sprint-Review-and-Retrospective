@@ -11,4 +11,4 @@
     
     
     What does it mean to be a good team member in software development?
-    In software development, being a good team member means to be a great communicator. In an agile Scrum team, communication is more than good listening skills. To be a great communicator, one must listen, ask questions, participate in Scrum events, and offer help to others when necessary. A good team member is also responsible, self-motivating, flexible.   
+    In software development, being a good team member means to be a great communicator. In an agile Scrum team, communication is more than good listening skills. To    be a great communicator, one must listen, ask questions, participate in Scrum events, and offer help to others when necessary. A good team member is also responsible, self-motivating, and flexible.   
